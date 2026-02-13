@@ -1,0 +1,1 @@
+If you have PGAdmin4 installed on your machine, you can try run the code and see if it will work on there. There are a few errors, some of them is due to duplicate code being ran again, and another one of them is because i havent created a table for it. Likewise hope you enjoy the code!
